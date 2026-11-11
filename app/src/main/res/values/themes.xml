@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.LokasiKampus" parent="Theme.Material3.Light" />
+</resources>
